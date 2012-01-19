@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<compilation>
+    <brano id="1">
+        <titolo>CERTE NOTTI</titolo>
+		<autore>LIGABUE</autore>
+		<genere>POP</genere>
+	</brano>
+	
+	<brano id="2">
+	    <titolo>UNDER THE BRIDGE</titolo>
+		<autore>RED HOT CHILI PEPPERS</autore>
+		<genere>ROCK</genere>
+	</brano>
+	
+	<brano id="3">
+	    <titolo>ONE</titolo>
+	    <autore>U2</autore>
+	    <genere>ROCK</genere>
+	</brano>
+
+</compilation>
